@@ -4,3 +4,5 @@ Hello Worldgit init
 ### above is for local merging
 
 ## Below is for merging using PR on GitHub
+## git push -u origin branchname
+## cmp and create pull request> resolve conflict and merge them
