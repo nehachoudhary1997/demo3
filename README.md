@@ -3,3 +3,6 @@ Hello Worldgit init
 ## before  merging -> git diff branchname > git merge branchname > git push -u origin branchname 
 ### above is for local merging
 
+## git push -u origin branchname
+## cmp and create pull request> resolve conflict and merge them
+
